@@ -23,7 +23,7 @@ public  class InterfaceDemo implements I1 {
 		 m.m1();
 		 m.m2(m);
 		 m.m3(cd);
+	
+
 	 }
-
-
 }
